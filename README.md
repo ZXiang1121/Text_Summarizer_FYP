@@ -1,4 +1,4 @@
-# Text Summarizer
+# Text Summarizer FYP
 
 ## Table of Contents
 - [Objective](#objective)
