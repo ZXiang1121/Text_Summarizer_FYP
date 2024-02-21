@@ -1,0 +1,19 @@
+section[data-testid="stSidebar"] div.stButton button,
+section[data-testid="stSidebar"] div.stDownloadButton button {
+  width: 100%;
+}
+
+/* [data-testid="stSidebarNav"] {
+  background-image: url("./App/nyc logo.png");
+  background-repeat: no-repeat;
+  padding-top: 120px;
+  background-position: 20px 20px;
+}
+[data-testid="stSidebarNav"]::before {
+  content: "NYC";
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: 30px;
+  position: relative;
+  top: 100px;
+} */
